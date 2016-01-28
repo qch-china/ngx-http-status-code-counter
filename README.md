@@ -11,7 +11,7 @@ This is my first Nginx module and it is still very early. Please feel free to pl
 
 I've included a sample munin plugin that uses ruby and the excellent munin_plugin gem.
 
-PS: This project is base on https://github.com/kennon/ngx_http_status_code_counter
+PS: This project is base on https://github.com/kennon/ngx_http_status_code_counter. I fix the bug that can not share the data in every nginx child process
 
 Example Config
 ==============
